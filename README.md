@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Edung Divinefavour
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LawreneEdung" alt="LawreneEdung" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LawreneEdung&show_icons=true&locale=en&layout=compact" alt="LawreneEdung" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LawreneEdung&show_icons=true&locale=en&count_private=true" alt="LawreneEdung" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LawreneEdung&" alt="LawreneEdung" /></p>
 
 <!--
