@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Edung Divinefavour
+<!-- ### Hi there 👋 I'm Edung Divinefavour
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LawreneEdung" alt="LawreneEdung" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LawreneEdung&show_icons=true&locale=en&layout=compact" alt="LawreneEdung" /></p>
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ -->
